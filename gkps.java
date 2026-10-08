@@ -15,6 +15,6 @@ public static void main(String[] args){
     int c = a+b;
 
     System.out.println("sum of two number:"+ c);
- 
+    ab.close();
 }
 }
